@@ -172,6 +172,28 @@ Takim #3
 - Gökmen - 
 - Tugrul - 
 
+---------------------------------------------------------------
+API
+---------------------------------------------------------------
+Takim #1 (deCoder)
+- Suleyman - 
+- Kemal - 
+- Ahmet - https://github.com/ahmetemre38/API_Odev
 
+Takim #2
+- Burhan - 
+- Kadircan
+- Aykut - 
+- Furkan -
+
+- Yasin - 
+- Onur - 
+- Kadir - 
+
+Takim #3
+- Sezer - 
+- Ethem -   
+- Gökmen - 
+- Tugrul - 
 
 
