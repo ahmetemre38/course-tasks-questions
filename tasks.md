@@ -172,6 +172,28 @@ Takim #3
 - Gökmen - 
 - Tugrul - 
 
+---------------------------------------------------------------
+API 
+---------------------------------------------------------------
+Takim #1 (deCoder)
+- Suleyman - https://github.com/skulleci/submission_of_tasks.git
+- Kemal - 
+- Ahmet -  
 
+Takim #2
+- Burhan - 
+- Kadircan
+- Aykut - 
+- Furkan -
+
+- Yasin - 
+- Onur - 
+- Kadir - 
+
+Takim #3
+- Sezer - 
+- Ethem -   
+- Gökmen - 
+- Tugrul - 
 
 
