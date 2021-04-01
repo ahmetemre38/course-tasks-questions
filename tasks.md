@@ -167,7 +167,7 @@ Takim #2
 - Kadir - https://github.com/kadir4530/task-api.git
 
 Takim #3
-- Sezer - 
+- Sezer - https://github.com/sezerbayram/example_of_API.git
 - Ethem -   
 - Gökmen - 
 - Tugrul - 
