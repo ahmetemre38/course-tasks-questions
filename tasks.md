@@ -153,13 +153,13 @@ OOP  [ Odev 2 ]
 ---------------------------------------------------------------
 Takim #1 (deCoder)
 - Suleyman - https://github.com/skulleci/submission_of_tasks.git
-- Kemal - 
+- Kemal - https://github.com/kenansahin10/week7odev
 - Ahmet -  
 
 Takim #2
 - Burhan - 
 - Kadircan
-- Aykut - 
+- Aykut - https://github.com/ayktldg/apiTask
 - Furkan -
 
 - Yasin - 
@@ -167,18 +167,18 @@ Takim #2
 - Kadir - https://github.com/kadir4530/task-api.git
 
 Takim #3
-- Sezer - 
+- Sezer - https://github.com/sezerbayram/example_of_API.git
 - Ethem -   
-- Gökmen - 
+- Gökmen - https://github.com/gsismandnm/15_Task_Api.git
 - Tugrul - 
 
 ---------------------------------------------------------------
-API
+API 
 ---------------------------------------------------------------
 Takim #1 (deCoder)
-- Suleyman - 
+- Suleyman - https://github.com/skulleci/submission_of_tasks.git
 - Kemal - 
-- Ahmet - https://github.com/ahmetemre38/API_Odev
+- Ahmet -  https://github.com/ahmetemre38/API_Odev
 
 Takim #2
 - Burhan - 
