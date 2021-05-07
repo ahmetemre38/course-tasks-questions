@@ -196,4 +196,25 @@ Takim #3
 - Gökmen - 
 - Tugrul - 
 
+---------------------------------------------------------------
+NODE 
+---------------------------------------------------------------
+Takim #1 (deCoder)
+- Suleyman - 
+- Kemal - 
+- Ahmet -  
+
+Takim #2
+- Burhan - 
+- Aykut - https://github.com/ayktldg/nodeIntro
+- Kadir - 
+- Yasin - 
+- Onur - 
+
+
+Takim #3
+- Sezer - 
+- Ethem -   
+- Gökmen - 
+- Tugrul - 
 
