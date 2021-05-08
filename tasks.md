@@ -207,7 +207,7 @@ Takim #1 (deCoder)
 Takim #2
 - Burhan - 
 - Aykut - https://github.com/ayktldg/nodeIntro
-- Kadir - 
+- Kadir - https://github.com/kadir4530/task_node.git
 - Yasin - 
 - Onur - 
 
