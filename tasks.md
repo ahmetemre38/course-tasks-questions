@@ -218,3 +218,23 @@ Takim #3
 - Gökmen - 
 - Tugrul - 
 
+---------------------------------------------------------------
+NODE-MONGO
+---------------------------------------------------------------
+Takim #1 (deCoder)
+- Suleyman - 
+- Kemal - 
+- Ahmet - https://github.com/ahmetemre38/NodeJs_Odev
+
+Takim #2
+- Burhan - 
+- Aykut - 
+- Kadir - 
+- Yasin - 
+- Onur - 
+
+Takim #3
+- Sezer - 
+- Ethem -   
+- Gökmen - 
+- Tugrul - 
